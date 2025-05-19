@@ -1,2 +1,2 @@
 # full_funnel
-simulate and analyze a simulated full funnel advertising experiment 
+simulate and analyze a full-funnel advertising experiment. details in the notebooks.  
