@@ -1,6 +1,6 @@
 # full_funnel
 
-This repo is a supplement to Harvard Business School Case 525-066: "Full-Funnel Advertising on TikTok: A Simulation." 
+This repo is a supplement to Harvard Business School Case: "Full-Funnel Advertising on TikTok: A Simulation." 
 
 It contains two notebooks that simulate and analyze a full-funnel advertising experiment. 
 
