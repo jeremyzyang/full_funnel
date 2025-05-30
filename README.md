@@ -4,7 +4,7 @@ This repo is a supplement to Harvard Business School Case: "Full-Funnel Advertis
 
 It contains two notebooks that simulate and analyze a full-funnel advertising experiment. 
 
-The data is illustrative in nature and may not correspond to the company’s actual circumstances.
+The data is illustrative in nature and may not correspond to TikTok’s actual circumstances.
 
 ## Notebook Overview
 
