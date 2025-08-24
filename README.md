@@ -1,10 +1,13 @@
 # full_funnel
 
-This repo is a supplement to Harvard Business School Case: "Full-Funnel Advertising on TikTok: An Experiment". 
+This repo is a supplement to Harvard Business School Exercise Case: "Full-Funnel Advertising on TikTok: An Experiment". 
 
 It contains two notebooks that simulate and analyze a full-funnel advertising experiment. 
 
 The data is illustrative in nature and may not correspond to TikTok’s actual circumstances.
+
+Main case: https://hbsp.harvard.edu/product/525065-PDF-ENG
+Exercise case: https://hbsp.harvard.edu/product/525066-PDF-ENG
 
 ## Notebook Overview
 
