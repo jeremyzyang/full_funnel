@@ -6,7 +6,7 @@ It contains two notebooks that simulate and analyze a full-funnel advertising ex
 
 The data is illustrative in nature and may not correspond to TikTok’s actual circumstances.
 
-Main case: https://hbsp.harvard.edu/product/525065-PDF-ENG
+Main case: https://hbsp.harvard.edu/product/525065-PDF-ENG <br/>
 Exercise case: https://hbsp.harvard.edu/product/525066-PDF-ENG
 
 ## Notebook Overview
